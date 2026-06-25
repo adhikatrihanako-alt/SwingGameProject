@@ -212,13 +212,9 @@ The completed parts in this project include:
 * Personal statistics display
 * Top 5 scorers display using JTable
 
-## GitHub Repository Link
-
-[Add your GitHub repository link here]
-
 ## YouTube Demonstration Video
 
-[Add your YouTube video link here]
+https://youtu.be/St0ep0RKsZE
 
 ## Conclusion
 
